@@ -1,0 +1,44 @@
+{
+  "Menu": [
+    {
+      "item_name": "CheeseCake",
+      "item_image": "images/CheeseCake.jpg",
+      "item_price": "100$"
+    },
+    {
+      "item_name": "Fries",
+      "item_image": "images/Fries.jpg",
+      "item_price": "10$"
+    },
+    {
+      "item_name": "Ice-Cream",
+      "item_image": "images/IceCream.jpg",
+      "item_price": "120$"
+    },
+    {
+      "item_name": "Momos",
+      "item_image": "images/Momos.jpg",
+      "item_price": "50$"
+    },
+    {
+      "item_name": "PanCake",
+      "item_image": "images/Pancake.jpg",
+      "item_price": "80$"
+    },
+    {
+      "item_name": "Pasta",
+      "item_image": "images/Pasta.jpg",
+      "item_price": "85$"
+    },
+    {
+      "item_name": "Pizza",
+      "item_image": "images/Pizza.jpg",
+      "item_price": "20$"
+    },
+    {
+      "item_name": "Salad",
+      "item_image": "images/Salad.jpg",
+      "item_price": "15$"
+    }
+  ]
+}
