@@ -61,7 +61,9 @@ function Menu() {
     </div>
   );
 }
-
+/*-------------------------*/
+/*    CARD COMPONENT     */
+/*-------------------------*/
 function Card({ itemobj }) {
   console.log(itemobj);
   return (
